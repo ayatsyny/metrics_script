@@ -1,0 +1,4 @@
+pip
+
+psutil==5.7.0
+typer==0.1.0
